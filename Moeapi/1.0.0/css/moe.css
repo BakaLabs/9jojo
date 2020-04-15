@@ -659,6 +659,10 @@ code:not(.hljs) {
   color: #2196F3;
 }
 
+#moe-body .moe-alink .i-pixiv {
+  color: #0097FA;
+}
+
 #moe-body .moe-alink .i-gravatar {
   color: #1565C0;
 }
@@ -691,6 +695,7 @@ code:not(.hljs) {
   width: 18px;
   border-radius: 50%;
   vertical-align: middle;
+  transition: all 0.3s;
 }
 
 #moe-body .moe-alink:hover i {
