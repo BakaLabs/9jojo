@@ -5,11 +5,6 @@
         "git": "https://github.com/SatoSouta/SPlayer",
         "author": "SatoSouta"
     },{
-        "name": "castle-Typecho-Theme",
-        "dir": "Castle",
-        "git": "https://github.com/ohmyga233/castle-Typecho-Theme",
-        "author": "ohmyga233"
-    },{
         "name": "Cuckoo",
         "dir": "Cuckoo",
         "git": "https://github.com/bhaoo/Cuckoo",
